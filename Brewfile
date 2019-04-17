@@ -30,34 +30,19 @@ brew 'node'
 brew 'redis'
 
 # Apps
-cask 'aerial'
-cask 'alfred'
 cask 'caffeine'
 cask 'discord'
 cask 'docker'
-cask 'dropbox'
-cask 'eid-be'
-cask 'eid-be-viewer'
 cask 'firefox'
 cask 'google-backup-and-sync'
 cask 'google-chrome'
-cask 'gpg-suite'
 cask 'insomnia'
-cask 'java'
 cask 'mysqlworkbench'
 cask 'phpstorm'
 cask 'sequel-pro'
-cask 'skype'
 cask 'slack'
 cask 'sublime-text'
 cask 'tableplus'
-cask 'there'
-cask 'tor-browser'
-cask 'tower2'
-cask 'transmit'
-cask 'vagrant'
-cask 'virtualbox'
-cask 'virtualbox-extension-pack'
 
 # Quicklook
 cask 'qlcolorcode'
@@ -83,7 +68,4 @@ mas 'Keynote', id: 409183694
 mas 'Sip', id: 507257563
 mas 'Spark', id: 1176895641
 mas 'The Unarchiver', id: 425424353
-mas 'Things', id: 904280696
-mas 'Tweetbot', id: 1384080005
-mas 'Unsplash', id: 1284863847
-mas 'WhatsApp', id: 1147396723 
+mas 'Tweetbot', id: 1384080005 
