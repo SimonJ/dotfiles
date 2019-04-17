@@ -43,6 +43,7 @@ cask 'slack'
 cask 'sublime-text'
 cask 'tableplus'
 cask 'visual-studio-code'
+cask 'spectacle'
 
 # Quicklook
 cask 'qlcolorcode'
