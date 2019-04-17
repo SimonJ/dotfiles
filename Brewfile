@@ -37,12 +37,12 @@ cask 'firefox'
 cask 'google-backup-and-sync'
 cask 'google-chrome'
 cask 'insomnia'
-cask 'mysqlworkbench'
 cask 'phpstorm'
 cask 'sequel-pro'
 cask 'slack'
 cask 'sublime-text'
 cask 'tableplus'
+cask 'visual-studio-code'
 
 # Quicklook
 cask 'qlcolorcode'
