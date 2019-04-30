@@ -44,6 +44,8 @@ cask 'sublime-text'
 cask 'tableplus'
 cask 'visual-studio-code'
 cask 'spectacle'
+cask 'github'
+cask 'tableplus'
 
 # Quicklook
 cask 'qlcolorcode'
